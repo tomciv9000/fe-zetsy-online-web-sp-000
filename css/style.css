@@ -63,3 +63,7 @@ p{
 .small {
     font-size: 0.8em;
 }
+
+footer {
+  text-align: right
+}
