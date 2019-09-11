@@ -35,3 +35,14 @@ h1{
 #featured img{
   border: 5px solid #99ADA6;
 }
+
+h2{
+  color: #6F7F7A;
+  font-size: 2em;
+}
+
+p{
+  color: #555;
+  font-size: 1em;
+  margin: 0 0 20px 0;
+}
