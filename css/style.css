@@ -60,6 +60,11 @@ p{
   color: #1783bb;
 }
 
+
+#featured a:hover {
+	text-decoration: underline;
+}
+
 #press {
   margin-bottom: 0px;
 }
