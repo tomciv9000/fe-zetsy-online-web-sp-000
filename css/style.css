@@ -21,6 +21,15 @@ body {
 }
 
 /* Write all remaining styles here */
+header a {
+	color: rgb(152,173,166);
+	text-decoration: none;
+}
+
+header a:hover {
+	color: rgb(111,127,122);
+}
+
 
 h1{
   color: #99ADA6;
@@ -34,4 +43,46 @@ h1{
 
 #featured img{
   border: 5px solid #99ADA6;
+}
+
+h2{
+  color: #6F7F7A;
+  font-size: 2em;
+}
+
+p{
+  color: #555;
+  font-size: 1em;
+  margin: 0 0 20px 0;
+}
+
+#featured a{
+  color: #1783bb;
+  text-decoration: none;
+}
+
+
+#featured a:hover {
+	text-decoration: underline;
+}
+
+#press {
+  margin-bottom: 20px;
+}
+
+#press img{
+  border: 5px #ccc solid;
+  padding: 1px;
+}
+
+#press img:hover {
+	border: 5px rgb(111,127,122) solid;
+}
+
+.small {
+    font-size: 0.8em;
+}
+
+footer {
+  text-align: right
 }
